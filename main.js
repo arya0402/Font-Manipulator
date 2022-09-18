@@ -1,5 +1,5 @@
 leftWristX = 0;
-rightWrist = 0;
+rightWristX = 0;
 difference = 0;
 
 function setup() {
